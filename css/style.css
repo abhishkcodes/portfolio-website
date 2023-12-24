@@ -668,11 +668,11 @@ textarea {
           .main-footer__lowers a {
             text-decoration: none;
             font-weight: bold;
-            display: inline;
+            display: inline-block;
             margin-left: 2px; }
           @media only screen and (max-width: 56.25em) {
             .main-footer__lowers {
-              display: inline;
+              display: inline-block;
               padding: 3.5rem 0; } }
 
 .skills {
